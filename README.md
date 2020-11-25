@@ -1,11 +1,11 @@
 
 # CONFIGURAR GIT NO WINDOWS VIA TERMINAL (GITBASH) USANDO MAIS DE UMA CHAVE SSH
 
-NOTA:
-- O GitHuub também pode ser instalado o GitHub for Windows, com o 
+>NOTA:
+>- O GitHuub também pode ser instalado o GitHub for Windows, com o 
 qual é possível fazer login na conta do git apenas com 
 usuário e senha, sem a necessidade de gerar chaves
-- Pode ser necessário remover as credencias criadas anteriormente no Windows para acesso ao GitHub.
+>- Pode ser necessário remover as credencias criadas anteriormente no Windows para acesso ao GitHub.
 
 #1 - Instalar Git Bash
 
