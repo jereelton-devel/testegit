@@ -18,13 +18,16 @@ git config --global user.email "seu@email.com" //Como esta no github
 </pre>
 
 # 3 - Gerar as chaves SSH
-
+<pre>
 ssh-keygen -t rsa -C "seu@email.com"
+</pre>
 
 * Configurar o nome da chave, ex:
+<pre>
 [PROMPT CMD]<br />
 Enter file in which to save the key (/c/Users/Jereelton Teixeira/.ssh/id_rsa):/c/Users/Jereelton Teixeira/.ssh/id_rsa_chave1_desktop_devel<br />
 * Criar uma senha para o arquivo e pronto.
+</pre>
 
 * Obter a chave gerada
 <pre>
